@@ -1,0 +1,7 @@
+Repository à copier de  Mathieu
+https://github.com/matbilodeau/cr460labs
+https://github.com/matbilodeau/CR460-devoir1
+https://github.com/matbilodeau/2020H-CR460-terraform-1
+https://github.com/matbilodeau/2020H-CR460-terraform-2
+https://github.com/matbilodeau/2020H-CR460-terraform-3
+https://github.com/matbilodeau/2020H-CR460-terraform-4
